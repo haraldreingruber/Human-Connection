@@ -13,7 +13,6 @@ Copy:
 
 ```text
 cp .env.template .env
-cp cypress.env.template.json cypress.env.json
 ```
 
 Configure the files according to your needs and your local setup.
